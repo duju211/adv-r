@@ -706,7 +706,7 @@ h08()
 
 # ls() evaluated in global environment:
 h08(ls())
-#> [1] "f"
+#> [1] "h08"
 ```
 
 ### Missing arguments
